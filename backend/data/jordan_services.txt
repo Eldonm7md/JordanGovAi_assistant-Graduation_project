@@ -1,0 +1,15 @@
+Service: Passport Renewal
+Language: English
+Requirements:
+- Valid national ID
+- Old passport
+- Personal photos
+- Payment of official fees
+
+الخدمة: تجديد جواز السفر
+اللغة: العربية
+المتطلبات:
+- هوية شخصية سارية
+- جواز السفر القديم
+- صور شخصية
+- دفع الرسوم الرسمية
